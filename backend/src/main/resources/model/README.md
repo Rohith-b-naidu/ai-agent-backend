@@ -1,0 +1,1 @@
+Place the ONNX model files for 'sentence-transformers/all-MiniLM-L6-v2' in this directory. This includes model.onnx, tokenizer.json, and any other configuration files.
